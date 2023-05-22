@@ -1,5 +1,7 @@
 # YTD - YouTube Playlist Downloader
 
+![Youtube Icon](YT.svg.png)
+
 ## How to Use
  - Install Libraries from requirements.txt
  - Copy and Paste links into Data.json
