@@ -1,6 +1,7 @@
 # YTD - YouTube Playlist Downloader
 
 ## How to Use
+ - Install Libraries from requirements.txt
  - Copy and Paste links into Data.json
  - Run Downloader_Routine 
  - Wait for songs to finish downloading (May take a while)
